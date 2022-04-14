@@ -1,4 +1,5 @@
 data/*
+example/glove.6B/*
 textresults/*
 resource/*
 .ipynb_checkpoints/*
